@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DestinyObs
-- 👀 I’m interested in Digital Art, Film And Video Editing, Web Design, Graphics Design, 
-- 🌱 I’m currently learning Ethical Hacking And Cybersecurity
-- 💞️ I’m looking to collaborate on FinTech Project, Film Production etc. 
+- 👀 I’m interested in Cloud Development, Ethical Hacking, Software Engeering also in Media 
+- 🌱 Software Engineer, Cloud Developer
+- 💞️ I’m looking to collaborate on FinTech Project etc. 
 - 📫 How to reach me Ig: @d.t.w_destiny_obs, Telegram, Whatsapp: 09042401678
 
 <!---
