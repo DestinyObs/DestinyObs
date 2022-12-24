@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DestinyObs
 - 👀 I’m interested in Cloud Development, Ethical Hacking, Software Engeering also in Media 
-- 🌱 Software Engineer, Cloud Developer
+- 🌱 Software Engineer, DevOps Engineer
 - 💞️ I’m looking to collaborate on FinTech Project etc. 
 - 📫 How to reach me Ig: @d.t.w_destiny_obs, Telegram, Whatsapp: 09042401678
 
