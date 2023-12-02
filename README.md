@@ -1,49 +1,69 @@
 # Hello, World! 👋
 
-I'm [Your Name], a passionate software engineer on a journey of continuous learning and innovation.
+I'm Destiny Obueh, a dedicated software developer passionate about creating innovative solutions and pushing the boundaries of technology.
 
 ## 🔧 Technologies & Tools
 
-- 💻 **Languages:** [List of languages you're proficient in]
-- 🚀 **Frameworks:** [List of frameworks and libraries]
-- 🛢️ **Databases:** [List of databases you're familiar with]
-- 🧰 **Tools & Platforms:** [Any additional tools/platforms you use]
+- 💻 **Languages:** C#, Python
+- 🚀 **Frameworks:** .NET
+- 🛢️ **Databases:** SQL Server, MySQL
+- 🧰 **Tools & Platforms:** Git, Visual Studio, VS Code, Postman, SQL Server Management Studio
 
 ## 🚀 Projects
 
-### [Project Name 1](Link to Project 1)
+### [DShop Clothing API](https://github.com/DestinyObs/DShopAPI)
 
-Brief description of the project.
+Lead developer for an e-commerce API, providing robust backend functionality.
 
-### [Project Name 2](Link to Project 2)
+### [Cyberspace Internship Project](Available in Assorted Repos on this PROFILE)
 
-Brief description of the project.
+Collaborated on developing several products, enhancing user interaction and experience.
 
-### [Project Name 3](Link to Project 3)
+### [BetaJAMBCBT API](https://github.com/DestinyObs/JAMBCBT_API)
 
-Brief description of the project.
+Spearheaded the development of an API for BetaJAMBCBT, delivering seamless integration for computer-based testing.
+
+
+### [Personal Portfolio Website](https://destinyobs.netlify.app/)
+
+Built a responsive portfolio showcasing my projects, skills, and achievements.
+
+### [Landmark University e-Maintenance Application]()
+
+Contributed significantly to the development of the e-Maintenance Handle application for Landmark University, enhancing the efficiency of maintenance operations.
+
+
 
 ## 📚 Education
 
-- [Degree] in [Field] from [University/Institution] (Year of Graduation)
-- [Any additional education]
+- **Bachelor's in Computer Science** - Landmark University Omu-Aran, Kwara State, Nigeria (Expected Graduation: 2024)
+- **Internship** - Cyberspace Ltd., Backend Development (March 2023 - Sept 2023)
 
 ## 💼 Work Experience
 
-- [Job Title] at [Company] - [Date Started] to [Date Ended]
-  Description of responsibilities and achievements.
+- **Backend Developer** at DShop Clothing (Aug 2023)
+  - Developed and maintained backend functionalities for the e-commerce platform.
+  - Led a team of developers to ensure timely project delivery.
+    
+- **Software Development Team Lead** at Rawcycling (March 2022 - Present)
+  - Developed and maintained backend functionalities for the e-commerce platform.
+  - Led a team of developers to ensure timely project delivery.
 
-- [Job Title] at [Company] - [Date Started] to [Date Ended]
-  Description of responsibilities and achievements.
+- **Intern** at Cyberspace Ltd. (May 2022 - Aug 2022)
+  - Acquired great knowledge on the development, Deployment & testing of Applications, and enhancing user engagement.
+  - Gained hands-on experience in backend development and API integration.
 
 ## 🌱 What I'm Learning
 
-- Currently exploring [Any courses or technologies you're currently learning]
+Currently exploring advanced concepts in backend development, Learning Golang, microservices architecture, and DevOps.
 
 ## 📫 Let's Connect
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Handle)
-- [Portfolio](Your Portfolio Link)
+- [LinkedIn](https://www.linkedin.com/in/destinyobs/)
+- [Twitter](https://twitter.com/DestinyObs)
+- [Portfolio](https://destinyobs.netlify.app/)
 
 Feel free to explore my projects, and let's connect for meaningful discussions! 😊
+
+🌐 **Open for Projects & Collaborations**
+- Passionate about FinTech projects and Problem Solving Projects. If you have exciting ideas, let's bring them to life!
