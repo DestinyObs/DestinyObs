@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Destiny Obueh, a dedicated software developer passionate about creating innovative solutions and pushing the boundaries of technology.
+I'm Destiny Obueh, a dedicated software DevOps Enginer passionate about creating innovative solutions and pushing the boundaries of technology.
 
 ## 🔧 Technologies & Tools
 
