@@ -1,13 +1,13 @@
 # Hello, World! 👋
 
-I'm Destiny Obueh, a dedicated software DevOps Enginer passionate about creating innovative solutions and pushing the boundaries of technology.
+I'm Destiny Obueh, a dedicated DevOps Engineer passionate about creating innovative solutions and pushing the boundaries of technology.
 
 ## 🔧 Technologies & Tools
 
-- 💻 **Languages:** C#, Python
+- 💻 **Languages:** C#, Python, GoLang
 - 🚀 **Frameworks:** .NET
 - 🛢️ **Databases:** SQL Server, MySQL
-- 🧰 **Tools & Platforms:** Git, Visual Studio, VS Code, Postman, SQL Server Management Studio
+- 🧰 **Tools & Platforms:** Git, Docker, Kubernetes, Jenkins, AWS, Azure, Visual Studio, VS Code, Postman, SQL Server Management Studio
 
 ## 🚀 Projects
 
@@ -23,7 +23,6 @@ Collaborated on developing several products, enhancing user interaction and expe
 
 Spearheaded the development of an API for BetaJAMBCBT, delivering seamless integration for computer-based testing.
 
-
 ### [Personal Portfolio Website](https://destinyobs.netlify.app/)
 
 Built a responsive portfolio showcasing my projects, skills, and achievements.
@@ -32,7 +31,9 @@ Built a responsive portfolio showcasing my projects, skills, and achievements.
 
 Contributed significantly to the development of the e-Maintenance Handle application for Landmark University, enhancing the efficiency of maintenance operations.
 
+### [HNG Internship Static Website](https://github.com/DestinyObs/HNG11)
 
+Developed and deployed a static website on an AWS EC2 instance using NGINX, demonstrating proficiency in cloud services and web deployment.
 
 ## 📚 Education
 
@@ -50,12 +51,16 @@ Contributed significantly to the development of the e-Maintenance Handle applica
   - Led a team of developers to ensure timely project delivery.
 
 - **Intern** at Cyberspace Ltd. (May 2022 - Aug 2022)
-  - Acquired great knowledge on the development, Deployment & testing of Applications, and enhancing user engagement.
+  - Acquired great knowledge on the development, deployment, and testing of applications, enhancing user engagement.
   - Gained hands-on experience in backend development and API integration.
+
+- **DevOps Engineer** at a Startup (June 2024 - Present)
+  - Managing and automating infrastructure, ensuring system reliability and scalability.
+  - Implementing CI/CD pipelines and monitoring solutions to streamline operations.
 
 ## 🌱 What I'm Learning
 
-Currently exploring advanced concepts in backend development, Learning Golang, microservices architecture, and DevOps.
+Currently exploring advanced concepts in DevOps, including microservices architecture, container orchestration with Kubernetes, and continuous integration/continuous deployment (CI/CD) practices.
 
 ## 📫 Let's Connect
 
@@ -66,4 +71,4 @@ Currently exploring advanced concepts in backend development, Learning Golang, m
 Feel free to explore my projects, and let's connect for meaningful discussions! 😊
 
 🌐 **Open for Projects & Collaborations**
-- Passionate about FinTech projects and Problem Solving Projects. If you have exciting ideas, let's bring them to life!
+- Passionate about FinTech projects and problem-solving initiatives. If you have exciting ideas, let's bring them to life!
