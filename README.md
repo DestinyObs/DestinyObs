@@ -21,12 +21,7 @@ I’m big on systems that **work quietly and scale effortlessly** — from CI/CD
 
 ---
 
-## 📂 Notable Repositories
-
-- 🔍 [`devopsfetch`](https://github.com/DestinyObs/devopsfetch) – My own Linux monitoring CLI tool written in Bash. Think of it as a mini-DevOps swiss army knife.
-- 🌐 [HNG11 Projects](https://github.com/DestinyObs/HNG11) – From static websites to full Dockerized stacks with proxies and RabbitMQ message queues.
-- 📦 [`DShopAPI`](https://github.com/DestinyObs/DShopAPI) – A backend project for e-commerce built with .NET.
-- 🎯 Portfolio: [destinyobs.netlify.app](https://destinyobs.netlify.app/)
+## 📂 Go Check out My Repositories
 
 ---
 
