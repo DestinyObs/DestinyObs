@@ -6,27 +6,27 @@ I build systems that don’t scream when traffic spikes, and I love turning mess
 
 ---
 
-## ⚙️ My DevOps Toolbox of Doom 💼
+## ⚙️ My DevOps Toolbox of Doom 
 
 If it ships, scales, monitors, deploys, or automates — I’ve probably used it (or cursed at it):
 
-*  Languages:** Bash, Python, C#, YAML
-*  Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
-* **🐳 Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
-* **🛡️ Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
-* **⚙️ Infra Automation:** Terraform, Ansible, systemd, cron jobs
-* **🚀 CI/CD:** GitHub Actions, Jenkins
-* **🔒 Secrets & Auth:** AWS Secrets Manager, HashiCorp Vault, SSH
-* **📦 Artifact & Versioning:** Git, GitHub, GitLab
-* **🔍 Monitoring & Observability:** Prometheus, Grafana, Loki, ELK Stack
-* **📈 Logging & Auditing:** journald, logrotate, CloudWatch Logs
-* **🧠 Databases:** PostgreSQL, MySQL, SQL Server
-* **📮 Messaging & Queues:** RabbitMQ, Redis, Celery, Kafka (learning)
-* **🧰 Dev Tools:** SSMS, VS Code, Visual Studio, Docker Desktop
+* **Languages:** Bash, Python, C#, YAML
+* **Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
+* ** Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
+* ** Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
+* ** Infra Automation:** Terraform, Ansible, systemd, cron jobs
+* ** CI/CD:** GitHub Actions, Jenkins
+* ** Secrets & Auth:** AWS Secrets Manager, HashiCorp Vault, SSH
+* ** Artifact & Versioning:** Git, GitHub, GitLab
+* ** Monitoring & Observability:** Prometheus, Grafana, Loki, ELK Stack
+* ** Logging & Auditing:** journald, logrotate, CloudWatch Logs
+* ** Databases:** PostgreSQL, MySQL, SQL Server
+* ** Messaging & Queues:** RabbitMQ, Redis, Celery, Kafka (learning)
+* ** Dev Tools:** SSMS, VS Code, Visual Studio, Docker Desktop
 
 ---
 
-## 📫 Let's Talk DevOps
+## Let's Talk DevOps
 
 Hit me up if you're into:
 
