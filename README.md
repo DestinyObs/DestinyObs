@@ -12,17 +12,17 @@ If it ships, scales, monitors, deploys, or automates — I’ve probably used it
 
 * **Languages:** Bash, Python, C#, YAML
 * **Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
-* ** Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
-* ** Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
-* ** Infra Automation:** Terraform, Ansible, systemd, cron jobs
-* ** CI/CD:** GitHub Actions, Jenkins
-* ** Secrets & Auth:** AWS Secrets Manager, HashiCorp Vault, SSH
-* ** Artifact & Versioning:** Git, GitHub, GitLab
-* ** Monitoring & Observability:** Prometheus, Grafana, Loki, ELK Stack
-* ** Logging & Auditing:** journald, logrotate, CloudWatch Logs
-* ** Databases:** PostgreSQL, MySQL, SQL Server
-* ** Messaging & Queues:** RabbitMQ, Redis, Celery, Kafka (learning)
-* ** Dev Tools:** SSMS, VS Code, Visual Studio, Docker Desktop
+* **Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
+* **Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
+* **Infra Automation:** Terraform, Ansible, systemd, cron jobs
+* **CI/CD:** GitHub Actions, Jenkins
+* **Secrets & Auth:** AWS Secrets Manager, HashiCorp Vault, SSH
+* **Artifact & Versioning:** Git, GitHub, GitLab
+* **Monitoring & Observability:** Prometheus, Grafana, Loki, ELK Stack
+* **Logging & Auditing:** journald, logrotate, CloudWatch Logs
+* **Databases:** PostgreSQL, MySQL, SQL Server
+* **Messaging & Queues:** RabbitMQ, Redis, Celery, Kafka (learning)
+* **Dev Tools:** SSMS, VS Code, Visual Studio, Docker Desktop
 
 ---
 
