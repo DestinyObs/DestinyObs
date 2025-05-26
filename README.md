@@ -1,43 +1,49 @@
-# Hey there! 👋 I'm Destiny Obueh
+# Hey there! 👋 I’m Destiny Obueh
 
-I'm a DevOps Engineer who loves building reliable infrastructure, automating workflows, and occasionally writing scripts that make servers behave like well-trained puppies 🐶.
+I’m a DevOps Engineer who enjoys making servers behave, automating *all the boring stuff*, and writing scripts that sometimes feel smarter than my toaster.
 
-I’m big on systems that **work quietly and scale effortlessly** — from CI/CD pipelines to Dockerized deployments and cloud-native apps. Whether I’m wrangling containers, tuning NGINX configs, or writing a Bash script that fetches port logs from `/var/log`, I’m always thinking *how can this be cleaner, faster, and smarter?*
-
----
-
-## 🛠️ Tools I've used across my projects
-
-> Tools, languages, and services I’ve worked with across various GitHub repos:
-
-- **Languages:** Bash, Python, GoLang, C#
-- **DevOps & Infra:** Docker, Docker Compose, Kubernetes, NGINX, systemd, Ngrok
-- **CI/CD & Automation:** GitHub Actions, Jenkins, cron jobs
-- **Cloud:** AWS (EC2, Route 53, S3), Azure
-- **Monitoring & Logs:** Prometheus, Grafana, logrotate, journald
-- **Backend Frameworks:** .NET Core, Flask
-- **Databases:** PostgreSQL, MySQL, SQL Server
-- **Other Tools:** Git, Postman, pgAdmin, SSMS, VS Code, Visual Studio
+I build systems that don’t scream when traffic spikes, and I love turning messy infrastructure into clean, automated pipelines. Whether it’s containers, configs, or cloud chaos — I’m the guy whispering, *“Relax, I got this.”*
 
 ---
 
-## 📂 Go Check out My Repositories
+## ⚙️ My DevOps Toolbox of Doom 💼
+
+If it ships, scales, monitors, deploys, or automates — I’ve probably used it (or cursed at it):
+
+* **🖥️ Languages:** Bash, Python, C#, YAML
+* **☁️ Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
+* **🐳 Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
+* **🛡️ Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
+* **⚙️ Infra Automation:** Terraform, Ansible, systemd, cron jobs
+* **🚀 CI/CD:** GitHub Actions, Jenkins
+* **🔒 Secrets & Auth:** AWS Secrets Manager, HashiCorp Vault, SSH
+* **📦 Artifact & Versioning:** Git, GitHub, GitLab
+* **🔍 Monitoring & Observability:** Prometheus, Grafana, Loki, ELK Stack
+* **📈 Logging & Auditing:** journald, logrotate, CloudWatch Logs
+* **🧠 Databases:** PostgreSQL, MySQL, SQL Server
+* **📮 Messaging & Queues:** RabbitMQ, Redis, Celery, Kafka (learning)
+* **🧰 Dev Tools:** SSMS, VS Code, Visual Studio, Docker Desktop
 
 ---
 
-## 📫 Let’s connect
+## 📫 Let's Talk DevOps
 
-I'm always open to:
-- Cool DevOps side-projects
-- Infra challenges in startups
-- Conversations about cloud, containers, or clean code
+Hit me up if you're into:
 
-Reach me on:
-- [LinkedIn](https://www.linkedin.com/in/destinyobs/)
-- [Twitter](https://twitter.com/DestinyObs)
-- [My Portfolio](https://destinyobs.netlify.app/)
+* Infra that doesn’t crash on Fridays
+* Containers that behave like good citizens
+* Automation that makes engineers sleep at night
+* Bash scripts that *actually* work the first time (okay, second time)
+
+Let’s connect:
+
+* [LinkedIn](https://www.linkedin.com/in/destinyobs/)
+* [Twitter](https://twitter.com/DestinyObs)
+* [My Portfolio](https://destinyobueh.netlify.app/)
 
 ---
 
-Thanks for stopping by!  
-**I'm DestinyObs** | *iDeploy | iSecure | iSustain*
+Thanks for stopping by!
+**I’m DestinyObs** — *iBuild | iDeploy | iSecure | iSustain* 
+
+---
