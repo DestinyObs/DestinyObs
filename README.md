@@ -10,8 +10,8 @@ I build systems that don’t scream when traffic spikes, and I love turning mess
 
 If it ships, scales, monitors, deploys, or automates — I’ve probably used it (or cursed at it):
 
-* **🖥️ Languages:** Bash, Python, C#, YAML
-* **☁️ Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
+*  Languages:** Bash, Python, C#, YAML
+*  Cloud Platforms:** AWS (EC2, S3, Route 53, IAM), Azure, Netlify
 * **🐳 Containers & Orchestration:** Docker, Docker Compose, Kubernetes, Helm
 * **🛡️ Web Servers & Proxies:** NGINX, Apache, Nginx Proxy Manager
 * **⚙️ Infra Automation:** Terraform, Ansible, systemd, cron jobs
