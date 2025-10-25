@@ -1,8 +1,10 @@
 # Hey there! 👋 I’m Destiny Obueh
+DevOps Engineer | Cloud Infrastructure | Automation Enthusiast
 
-I’m a DevOps Engineer who enjoys making servers behave, automating *all the boring stuff*, and writing scripts that sometimes feel smarter than my toaster.
+I make infrastructure run like clockwork — reliable, secure, and a little bit elegant.
+I’ve spent the past few years building and maintaining systems that scale gracefully, automating everything from CI/CD pipelines to container orchestration and server monitoring.
 
-I build systems that don’t scream when traffic spikes, and I love turning messy infrastructure into clean, automated pipelines. Whether it’s containers, configs, or cloud chaos — I’m the guy whispering, *“Relax, I got this.”*
+When I’m not scripting servers into submission, I’m probably tuning a deployment pipeline or breaking down DevOps concepts for others — because great systems are nothing without good people who understand them.
 
 ---
 
